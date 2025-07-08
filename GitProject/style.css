@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    text-transform: capitalize;
+}
+
+body{
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 3rem;
+    background-color: #000;
+    color: #fff;
+}
